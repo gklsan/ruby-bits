@@ -1,0 +1,1 @@
+Keeping track of my RubyBits Part 2 progress (check out the courses at CodeSchool.org, they are fun!)
