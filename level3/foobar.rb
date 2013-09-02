@@ -1,4 +1,6 @@
 class FooBar
+  puts "I am inside #{self}"
+
   def foo
     puts "foo (arity 0) is executing"
   end
